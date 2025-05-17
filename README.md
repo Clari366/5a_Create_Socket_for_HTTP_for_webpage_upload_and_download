@@ -49,7 +49,8 @@ download_file(host, port, 'example.txt')
  print("File downloaded successfully.")
 ```
 ## OUTPUT
-![442393950-d12d5f8b-6438-411f-95dc-c791809f82b1](https://github.com/user-attachments/assets/073c3483-e703-49da-b4ea-c33c8ad5b6e3)
+![Screenshot 2025-05-17 104158](https://github.com/user-attachments/assets/9411c882-cffd-46f9-9e0f-5a7c45f641b8)
+
 
 
 ## Result
